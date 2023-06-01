@@ -1,0 +1,39 @@
+.mainContainer{
+    border:solid black;
+    height:85vh;
+}
+.subContainer{
+    border:solid yellow;
+    display:flex;
+    height:75vh;
+}
+.header{
+    border:solid blue;
+    text-align:center;
+    font-size:30px;
+    /* background-color: yellow; */
+}
+.sideBar{
+    border:solid green;
+    width:300px;
+}
+.topSidebar{
+    border:solid red;
+    height:50%;
+}
+.bottomSidebar{
+    border:solid red;
+    height:50%;
+}
+.menu{
+    border:solid green;
+    width:800px;
+    /* background-color: yellow; */
+}
+.Menu{
+    border:solid pink;
+    text-align: center;
+    font-size:40px;
+    /* background-color:red; */
+    /* color:white; */
+}
